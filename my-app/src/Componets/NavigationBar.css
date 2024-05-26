@@ -1,0 +1,38 @@
+body {
+    font-family: 'Abel', sans-serif;
+  }
+
+.Pages {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.Navigator {
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+
+}
+  
+.Navigator a {
+    color: #9395A2;
+    text-decoration: none;
+    font-size: 20px;
+    transition: font-size 0.3s ease;
+    padding: 0 20px; /* Add padding around each link */
+}
+  
+.Navigator a:hover {
+    font-size: 30px; /* Double the size when hovered */
+    color:#394060;
+}
+  
+.Navigator a.active {
+    font-size: 40px; /* Double the size when active */
+    color:#394060;
+}
+  
+
+  

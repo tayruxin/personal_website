@@ -1,0 +1,17 @@
+.Body_port {
+    background-color: #FFF;
+    min-height: 90.8vh;
+    display: flex;
+    flex-direction: row;
+    flex: 1
+  }
+
+  .Right_port {
+    font-family: 'JetBrains Mono'; 
+    width: 50%;
+  }
+
+  .Left_port {
+    background-color: #394060;
+    width: 50%;
+  }

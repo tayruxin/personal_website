@@ -1,0 +1,46 @@
+
+.Body {
+    background-color: #FFF;
+    min-height: 90.8vh;
+    display: flex;
+    flex-direction: row;
+    flex: 1
+  }
+
+  .Right {
+    font-family: 'JetBrains Mono'; 
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .Left {
+    background-color: #C4CBEC;
+    width: 50%;
+  }
+
+  .content {
+    font-size: 20px;
+    color: #626683;
+    margin: 0;
+    font-family: 'JetBrains Mono';
+  }
+
+  .text{
+    font-family:"Abel";
+    color: #394060;
+    font-size:50px;
+    padding-left:10%;
+    padding-right:10%;
+    padding-top:5%;
+  }
+
+  .image {
+    object-fit: cover;
+    width:93%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }

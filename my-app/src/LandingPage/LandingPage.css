@@ -1,0 +1,49 @@
+.landing_page {
+  background-color: #FFF;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex: 1
+
+}
+
+.landing_page-right {
+  font-family: 'JetBrains Mono'; 
+  flex: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Hello {
+  font-size: 50px;
+  color: #626683;
+  margin: 0;
+  padding-left: 30%;
+
+}
+
+.RuXin {
+  font-size: 70px;
+  color: #000;
+  margin: 0;
+  padding-left: 30%;
+  padding-top: 30px;
+
+
+}
+
+.Intro {
+  font-size: 20px;
+  color: #626683;
+  margin: 0;
+  padding-left: 30%;
+  padding-top: 30px;
+  padding-right: 10%
+}
+
+
+.landing_page-left {
+  background-color: #C4CBEB;
+  flex: 50%;
+}
