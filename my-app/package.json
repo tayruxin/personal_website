@@ -1,7 +1,7 @@
 {
-  "homepage": "https://tayruxin.github.io/personal_website",
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://tayruxin.github.io/",
   "private": true,
   "dependencies": {
     "@react-navigation/native-stack": "^6.9.26",
